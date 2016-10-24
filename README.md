@@ -27,6 +27,9 @@ functions
    
    
   TODO
-  android app for monitoring
+  1.android app for monitoring
   and control only if it is connected to same router(mobile and system)
+  2. will add schemantic of system soon or contact me on a4ashishrpATgmailDOTcom
+  AT=@
+  DOT=.
    
