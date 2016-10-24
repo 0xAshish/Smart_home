@@ -25,3 +25,8 @@ functions
    and logic-> program shows it in 0-100% formet                                  
    
    
+   
+  TODO
+  android app for monitoring
+  and control only if it is connected to same router(mobile and system)
+   
